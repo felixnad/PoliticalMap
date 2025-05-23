@@ -21,8 +21,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Charge les données GeoJSON des pays et les données personnalisées
     Promise.all([
-        d3.json("/static/world.geojson"), // Fichier GeoJSON des pays
-        d3.json("/static/country_data.json") // Données mock personnalisées
+        d3.json("static/world.geojson"), // Fichier GeoJSON des pays
+        d3.json("static/country_data.json") // Données mock personnalisées
     ]).then(function (data) {
         const world = data[0]; // Données GeoJSON
         const countryData = data[1]; // Données personnalisées
