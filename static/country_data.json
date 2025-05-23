@@ -1,0 +1,611 @@
+{
+  "AFG": {
+    "name": "Afghanistan",
+    "capital": "Kaboul",
+    "gdp": "14.5 Billion USD (2023 est.)",
+    "ruling_party": "Taliban (Émirat Islamique d'Afghanistan)",
+    "ideology": "Other"
+  },
+  "ALB": {
+    "name": "Albanie",
+    "capital": "Tirana",
+    "gdp": "20.7 Billion USD (2023 est.)",
+    "ruling_party": "Parti Socialiste d'Albanie",
+    "ideology": "Center-Left"
+  },
+  "DZA": {
+    "name": "Algérie",
+    "capital": "Alger",
+    "gdp": "266.8 Billion USD (2023 est.)",
+    "ruling_party": "Front de Libération Nationale (dominant)",
+    "ideology": "Other"
+  },
+  "AGO": {
+    "name": "Angola",
+    "capital": "Luanda",
+    "gdp": "124.9 Billion USD (2023 est.)",
+    "ruling_party": "Mouvement Populaire de Libération de l'Angola (MPLA)",
+    "ideology": "Left"
+  },
+  "ARG": {
+    "name": "Argentine",
+    "capital": "Buenos Aires",
+    "gdp": "632.7 Billion USD (2023 est.)",
+    "ruling_party": "La Libertad Avanza (dominant)",
+    "ideology": "Far-Right"
+  },
+  "ARM": {
+    "name": "Arménie",
+    "capital": "Erevan",
+    "gdp": "24.6 Billion USD (2023 est.)",
+    "ruling_party": "Contrat Civil",
+    "ideology": "Centrist"
+  },
+  "AUS": {
+    "name": "Australie",
+    "capital": "Canberra",
+    "gdp": "1.7 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Travailliste Australien",
+    "ideology": "Center-Left"
+  },
+  "AUT": {
+    "name": "Autriche",
+    "capital": "Vienne",
+    "gdp": "472.9 Billion USD (2023 est.)",
+    "ruling_party": "Parti Populaire Autrichien (ÖVP) en coalition",
+    "ideology": "Center-Right"
+  },
+  "AZE": {
+    "name": "Azerbaïdjan",
+    "capital": "Bakou",
+    "gdp": "78.7 Billion USD (2023 est.)",
+    "ruling_party": "Nouveau Parti d'Azerbaïdjan",
+    "ideology": "Other"
+  },
+  "BHR": {
+    "name": "Bahreïn",
+    "capital": "Manama",
+    "gdp": "46.2 Billion USD (2023 est.)",
+    "ruling_party": "Monarchie Constitutionnelle (Famille Al Khalifa)",
+    "ideology": "Other"
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "capital": "Dacca",
+    "gdp": "446.4 Billion USD (2023 est.)",
+    "ruling_party": "Ligue Awami",
+    "ideology": "Center-Left"
+  },
+  "BLR": {
+    "name": "Biélorussie",
+    "capital": "Minsk",
+    "gdp": "72.7 Billion USD (2023 est.)",
+    "ruling_party": "Indépendant (Alexandre Loukachenko)",
+    "ideology": "Other"
+  },
+  "BEL": {
+    "name": "Belgique",
+    "capital": "Bruxelles",
+    "gdp": "674.1 Billion USD (2023 est.)",
+    "ruling_party": "Vivaldi Coalition (incluant Open VLD, PS, Ecolo, CD&V, Groen, SP.A, MR)",
+    "ideology": "Centrist"
+  },
+  "BRA": {
+    "name": "Brésil",
+    "capital": "Brasília",
+    "gdp": "2.1 Trillion USD (2023 est.)",
+    "ruling_party": "Parti des Travailleurs",
+    "ideology": "Center-Left"
+  },
+  "BGR": {
+    "name": "Bulgarie",
+    "capital": "Sofia",
+    "gdp": "100.9 Billion USD (2023 est.)",
+    "ruling_party": "PP-DB (Continuons le Changement – Bulgarie Démocratique) en coalition",
+    "ideology": "Center-Right"
+  },
+  "CAN": {
+    "name": "Canada",
+    "capital": "Ottawa",
+    "gdp": "2.2 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Libéral du Canada",
+    "ideology": "Center-Left"
+  },
+  "CHL": {
+    "name": "Chili",
+    "capital": "Santiago",
+    "gdp": "349.5 Billion USD (2023 est.)",
+    "ruling_party": "Convergence Sociale (parti du président Gabriel Boric)",
+    "ideology": "Center-Left"
+  },
+  "CHN": {
+    "name": "Chine",
+    "capital": "Pékin",
+    "gdp": "18.5 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Communiste Chinois",
+    "ideology": "Radical Left"
+  },
+  "COL": {
+    "name": "Colombie",
+    "capital": "Bogotá",
+    "gdp": "363.8 Billion USD (2023 est.)",
+    "ruling_party": "Pacte Historique",
+    "ideology": "Left"
+  },
+  "CRI": {
+    "name": "Costa Rica",
+    "capital": "San José",
+    "gdp": "79.3 Billion USD (2023 est.)",
+    "ruling_party": "Parti Progrès Social Démocratique",
+    "ideology": "Centrist"
+  },
+  "CIV": {
+    "name": "Côte d'Ivoire",
+    "capital": "Yamoussoukro",
+    "gdp": "79.5 Billion USD (2023 est.)",
+    "ruling_party": "Rassemblement des Houphouëtistes pour la Démocratie et la Paix (RHDP)",
+    "ideology": "Centrist"
+  },
+  "HRV": {
+    "name": "Croatie",
+    "capital": "Zagreb",
+    "gdp": "79.1 Billion USD (2023 est.)",
+    "ruling_party": "Union Démocratique Croate (HDZ)",
+    "ideology": "Right"
+  },
+  "CUB": {
+    "name": "Cuba",
+    "capital": "La Havane",
+    "gdp": "120.0 Billion USD (2023 est.)",
+    "ruling_party": "Parti Communiste de Cuba",
+    "ideology": "Radical Left"
+  },
+  "CZE": {
+    "name": "Tchéquie",
+    "capital": "Prague",
+    "gdp": "339.2 Billion USD (2023 est.)",
+    "ruling_party": "SPOLU (coalition majoritaire)",
+    "ideology": "Center-Right"
+  },
+  "DNK": {
+    "name": "Danemark",
+    "capital": "Copenhague",
+    "gdp": "400.2 Billion USD (2023 est.)",
+    "ruling_party": "Sociaux-démocrates en coalition",
+    "ideology": "Center-Left"
+  },
+  "DOM": {
+    "name": "République Dominicaine",
+    "capital": "Saint-Domingue",
+    "gdp": "124.6 Billion USD (2023 est.)",
+    "ruling_party": "Parti Révolutionnaire Moderne",
+    "ideology": "Centrist"
+  },
+  "ECU": {
+    "name": "Équateur",
+    "capital": "Quito",
+    "gdp": "120.3 Billion USD (2023 est.)",
+    "ruling_party": "Action Démocratique Nationale (ADN)",
+    "ideology": "Centrist"
+  },
+  "EGY": {
+    "name": "Égypte",
+    "capital": "Le Caire",
+    "gdp": "387.8 Billion USD (2023 est.)",
+    "ruling_party": "Parti du Futur de la Nation (dominant)",
+    "ideology": "Other"
+  },
+  "FIN": {
+    "name": "Finlande",
+    "capital": "Helsinki",
+    "gdp": "304.5 Billion USD (2023 est.)",
+    "ruling_party": "Parti de la Coalition Nationale en coalition",
+    "ideology": "Right"
+  },
+  "FRA": {
+    "name": "France",
+    "capital": "Paris",
+    "gdp": "2.9 Trillion USD (2023 est.)",
+    "ruling_party": "Renaissance",
+    "ideology": "Centrist"
+  },
+  "DEU": {
+    "name": "Allemagne",
+    "capital": "Berlin",
+    "gdp": "4.3 Trillion USD (2023 est.)",
+    "ruling_party": "SPD en coalition",
+    "ideology": "Center-Left"
+  },
+  "GHA": {
+    "name": "Ghana",
+    "capital": "Accra",
+    "gdp": "75.7 Billion USD (2023 est.)",
+    "ruling_party": "Nouveau Parti Patriotique",
+    "ideology": "Center-Right"
+  },
+  "GRC": {
+    "name": "Grèce",
+    "capital": "Athènes",
+    "gdp": "252.1 Billion USD (2023 est.)",
+    "ruling_party": "Nouvelle Démocratie",
+    "ideology": "Center-Right"
+  },
+  "GTM": {
+    "name": "Guatemala",
+    "capital": "Guatemala",
+    "gdp": "102.7 Billion USD (2023 est.)",
+    "ruling_party": "Semilla",
+    "ideology": "Center-Left"
+  },
+  "HTI": {
+    "name": "Haïti",
+    "capital": "Port-au-Prince",
+    "gdp": "12.7 Billion USD (2023 est.)",
+    "ruling_party": "N/A (Transition politique, instabilité)",
+    "ideology": "Other"
+  },
+  "HND": {
+    "name": "Honduras",
+    "capital": "Tegucigalpa",
+    "gdp": "33.7 Billion USD (2023 est.)",
+    "ruling_party": "Liberté et Refondation (LIBRE)",
+    "ideology": "Left"
+  },
+  "HUN": {
+    "name": "Hongrie",
+    "capital": "Budapest",
+    "gdp": "205.4 Billion USD (2023 est.)",
+    "ruling_party": "Fidesz – Alliance Civique Hongroise",
+    "ideology": "Right"
+  },
+  "IND": {
+    "name": "Inde",
+    "capital": "New Delhi",
+    "gdp": "3.7 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Bharatiya Janata",
+    "ideology": "Right"
+  },
+  "IDN": {
+    "name": "Indonésie",
+    "capital": "Jakarta",
+    "gdp": "1.4 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Démocratique Indonésien de Lutte (PDI-P)",
+    "ideology": "Centrist"
+  },
+  "IRN": {
+    "name": "Iran",
+    "capital": "Téhéran",
+    "gdp": "439.4 Billion USD (2023 est.)",
+    "ruling_party": "Théocratie, Guide Suprême Ali Khamenei",
+    "ideology": "Other"
+  },
+  "IRQ": {
+    "name": "Irak",
+    "capital": "Bagdad",
+    "gdp": "267.8 Billion USD (2023 est.)",
+    "ruling_party": "Cadre de Coordination (dominant)",
+    "ideology": "Other"
+  },
+  "IRL": {
+    "name": "Irlande",
+    "capital": "Dublin",
+    "gdp": "560.0 Billion USD (2023 est.)",
+    "ruling_party": "Fianna Fáil / Fine Gael en coalition",
+    "ideology": "Centrist"
+  },
+  "ISR": {
+    "name": "Israël",
+    "capital": "Jérusalem",
+    "gdp": "522.0 Billion USD (2023 est.)",
+    "ruling_party": "Likoud en coalition",
+    "ideology": "Right"
+  },
+  "ITA": {
+    "name": "Italie",
+    "capital": "Rome",
+    "gdp": "2.3 Trillion USD (2023 est.)",
+    "ruling_party": "Frères d'Italie",
+    "ideology": "Far-Right"
+  },
+  "JPN": {
+    "name": "Japon",
+    "capital": "Tokyo",
+    "gdp": "4.2 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Libéral Démocrate",
+    "ideology": "Right"
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "capital": "Astana",
+    "gdp": "259.3 Billion USD (2023 est.)",
+    "ruling_party": "Amanat",
+    "ideology": "Other"
+  },
+  "KEN": {
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "gdp": "113.4 Billion USD (2023 est.)",
+    "ruling_party": "Kenya Kwanza Coalition",
+    "ideology": "Centrist"
+  },
+  "KOR": {
+    "name": "Corée du Sud",
+    "capital": "Séoul",
+    "gdp": "1.7 Trillion USD (2023 est.)",
+    "ruling_party": "Parti du Pouvoir au Peuple",
+    "ideology": "Center-Right"
+  },
+  "PRK": {
+    "name": "Corée du Nord",
+    "capital": "Pyongyang",
+    "gdp": "N/A",
+    "ruling_party": "Parti du travail de Corée",
+    "ideology": "Radical Left"
+  },
+  "KWT": {
+    "name": "Koweït",
+    "capital": "Koweït City",
+    "gdp": "164.5 Billion USD (2023 est.)",
+    "ruling_party": "Monarchie Constitutionnelle (Famille Al-Sabah)",
+    "ideology": "Other"
+  },
+  "LBN": {
+    "name": "Liban",
+    "capital": "Beyrouth",
+    "gdp": "N/A",
+    "ruling_party": "N/A (Gouvernement de transition / crise)",
+    "ideology": "Other"
+  },
+  "LBY": {
+    "name": "Libye",
+    "capital": "Tripoli",
+    "gdp": "47.7 Billion USD (2023 est.)",
+    "ruling_party": "N/A (Gouvernements rivaux / guerre civile)",
+    "ideology": "Other"
+  },
+  "LUX": {
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "gdp": "86.1 Billion USD (2023 est.)",
+    "ruling_party": "Parti Chrétien Social Populaire (CSV) en coalition",
+    "ideology": "Center-Right"
+  },
+  "MYS": {
+    "name": "Malaisie",
+    "capital": "Kuala Lumpur",
+    "gdp": "439.0 Billion USD (2023 est.)",
+    "ruling_party": "Pakatan Harapan (dominant)",
+    "ideology": "Centrist"
+  },
+  "MEX": {
+    "name": "Mexique",
+    "capital": "Mexico",
+    "gdp": "1.8 Trillion USD (2023 est.)",
+    "ruling_party": "MORENA",
+    "ideology": "Center-Left"
+  },
+  "MAR": {
+    "name": "Maroc",
+    "capital": "Rabat",
+    "gdp": "146.4 Billion USD (2023 est.)",
+    "ruling_party": "Rassemblement National des Indépendants (RNI)",
+    "ideology": "Centrist"
+  },
+  "NLD": {
+    "name": "Pays-Bas",
+    "capital": "Amsterdam",
+    "gdp": "1.0 Trillion USD (2023 est.)",
+    "ruling_party": "PVV en coalition (récent changement, peut être en formation)",
+    "ideology": "Far-Right"
+  },
+  "NZL": {
+    "name": "Nouvelle-Zélande",
+    "capital": "Wellington",
+    "gdp": "252.0 Billion USD (2023 est.)",
+    "ruling_party": "Parti National en coalition",
+    "ideology": "Center-Right"
+  },
+  "NGA": {
+    "name": "Nigéria",
+    "capital": "Abuja",
+    "gdp": "472.6 Billion USD (2023 est.)",
+    "ruling_party": "Congrès des Progressistes (APC)",
+    "ideology": "Centrist"
+  },
+  "NOR": {
+    "name": "Norvège",
+    "capital": "Oslo",
+    "gdp": "560.1 Billion USD (2023 est.)",
+    "ruling_party": "Parti Travailliste",
+    "ideology": "Center-Left"
+  },
+  "OMN": {
+    "name": "Oman",
+    "capital": "Mascate",
+    "gdp": "110.1 Billion USD (2023 est.)",
+    "ruling_party": "Monarchie Absolue (Famille Al Saïd)",
+    "ideology": "Other"
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "gdp": "374.9 Billion USD (2023 est.)",
+    "ruling_party": "Ligue Musulmane du Pakistan (N)",
+    "ideology": "Centrist"
+  },
+  "PER": {
+    "name": "Pérou",
+    "capital": "Lima",
+    "gdp": "249.7 Billion USD (2023 est.)",
+    "ruling_party": "N/A (Présidente Dina Boluarte)",
+    "ideology": "Other"
+  },
+  "PHL": {
+    "name": "Philippines",
+    "capital": "Manille",
+    "gdp": "435.6 Billion USD (2023 est.)",
+    "ruling_party": "Partido Federal ng Pilipinas (PFP)",
+    "ideology": "Right"
+  },
+  "POL": {
+    "name": "Pologne",
+    "capital": "Varsovie",
+    "gdp": "748.8 Billion USD (2023 est.)",
+    "ruling_party": "Plateforme Civique en coalition",
+    "ideology": "Center-Right"
+  },
+  "PRT": {
+    "name": "Portugal",
+    "capital": "Lisbonne",
+    "gdp": "276.4 Billion USD (2023 est.)",
+    "ruling_party": "Parti Social-Démocrate (PSD) en coalition",
+    "ideology": "Center-Right"
+  },
+  "QAT": {
+    "name": "Qatar",
+    "capital": "Doha",
+    "gdp": "219.0 Billion USD (2023 est.)",
+    "ruling_party": "Monarchie Absolue (Famille Al Thani)",
+    "ideology": "Other"
+  },
+  "ROU": {
+    "name": "Roumanie",
+    "capital": "Bucarest",
+    "gdp": "345.9 Billion USD (2023 est.)",
+    "ruling_party": "Parti Social Démocrate (PSD) en coalition",
+    "ideology": "Center-Left"
+  },
+  "RUS": {
+    "name": "Russie",
+    "capital": "Moscou",
+    "gdp": "1.9 Trillion USD (2023 est.)",
+    "ruling_party": "Russie Unie (dominant)",
+    "ideology": "Right"
+  },
+  "SAU": {
+    "name": "Arabie Saoudite",
+    "capital": "Riyad",
+    "gdp": "1.1 Trillion USD (2023 est.)",
+    "ruling_party": "Monarchie Absolue (Famille Al Saoud)",
+    "ideology": "Other"
+  },
+  "SEN": {
+    "name": "Sénégal",
+    "capital": "Dakar",
+    "gdp": "30.0 Billion USD (2023 est.)",
+    "ruling_party": "Parti Africain pour l'Indépendance et la Démocratie",
+    "ideology": "Left"
+  },
+  "SGP": {
+    "name": "Singapour",
+    "capital": "Singapour",
+    "gdp": "496.8 Billion USD (2023 est.)",
+    "ruling_party": "Parti d'Action Populaire (PAP)",
+    "ideology": "Other"
+  },
+  "SVK": {
+    "name": "Slovaquie",
+    "capital": "Bratislava",
+    "gdp": "136.2 Billion USD (2023 est.)",
+    "ruling_party": "SMER – Social-Démocratie (dominant)",
+    "ideology": "Left"
+  },
+  "ZAF": {
+    "name": "Afrique du Sud",
+    "capital": "Pretoria",
+    "gdp": "0.4 Trillion USD (2023 est.)",
+    "ruling_party": "Congrès National Africain",
+    "ideology": "Left"
+  },
+  "ESP": {
+    "name": "Espagne",
+    "capital": "Madrid",
+    "gdp": "1.6 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Socialiste Ouvrier Espagnol (PSOE) en coalition",
+    "ideology": "Center-Left"
+  },
+  "SWE": {
+    "name": "Suède",
+    "capital": "Stockholm",
+    "gdp": "602.8 Billion USD (2023 est.)",
+    "ruling_party": "Modérés en coalition",
+    "ideology": "Center-Right"
+  },
+  "CHE": {
+    "name": "Suisse",
+    "capital": "Berne",
+    "gdp": "890.3 Billion USD (2023 est.)",
+    "ruling_party": "Conseil Fédéral (multi-partis)",
+    "ideology": "Centrist"
+  },
+  "SYR": {
+    "name": "Syrie",
+    "capital": "Damas",
+    "gdp": "N/A",
+    "ruling_party": "Parti Baas (dominant)",
+    "ideology": "Other"
+  },
+  "THA": {
+    "name": "Thaïlande",
+    "capital": "Bangkok",
+    "gdp": "573.7 Billion USD (2023 est.)",
+    "ruling_party": "Parti Pheu Thai en coalition",
+    "ideology": "Centrist"
+  },
+  "TUR": {
+    "name": "Turquie",
+    "capital": "Ankara",
+    "gdp": "1.1 Trillion USD (2023 est.)",
+    "ruling_party": "Parti de la Justice et du Développement (AKP)",
+    "ideology": "Right"
+  },
+  "UKR": {
+    "name": "Ukraine",
+    "capital": "Kiev",
+    "gdp": "165.7 Billion USD (2023 est.)",
+    "ruling_party": "Serviteur du Peuple",
+    "ideology": "Centrist"
+  },
+  "ARE": {
+    "name": "Émirats Arabes Unis",
+    "capital": "Abou Dabi",
+    "gdp": "509.7 Billion USD (2023 est.)",
+    "ruling_party": "Monarchie Fédérale (Famille Al Nahyan, Al Maktoum)",
+    "ideology": "Other"
+  },
+  "GBR": {
+    "name": "Royaume-Uni",
+    "capital": "Londres",
+    "gdp": "3.3 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Conservateur",
+    "ideology": "Right"
+  },
+  "USA": {
+    "name": "États-Unis",
+    "capital": "Washington D.C.",
+    "gdp": "27.9 Trillion USD (2023 est.)",
+    "ruling_party": "Parti Démocrate",
+    "ideology": "Centrist"
+  },
+  "VEN": {
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "gdp": "N/A",
+    "ruling_party": "Parti Socialiste Uni du Venezuela (PSUV)",
+    "ideology": "Radical Left"
+  },
+  "VNM": {
+    "name": "Viêt Nam",
+    "capital": "Hanoï",
+    "gdp": "433.3 Billion USD (2023 est.)",
+    "ruling_party": "Parti Communiste du Viêt Nam",
+    "ideology": "Radical Left"
+  },
+  "YEM": {
+    "name": "Yémen",
+    "capital": "Sanaa (de facto Houthi), Aden (gouvernement reconnu)",
+    "gdp": "N/A",
+    "ruling_party": "N/A (Conflit en cours)",
+    "ideology": "Other"
+  }
+}
